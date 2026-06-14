@@ -1,0 +1,29 @@
+title: BHX Labs
+description: Independent Canadian lab for open research, software experiments, datasets, and digital infrastructure projects.
+url: "https://bhx.ca"
+baseurl: ""
+lang: en
+timezone: America/Toronto
+
+logo: /assets/img/favicon.svg
+
+social:
+  name: BHX Labs
+  links:
+    - https://github.com/bhxlabs
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

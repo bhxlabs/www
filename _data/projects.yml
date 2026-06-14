@@ -1,0 +1,48 @@
+- title: ProvenanceDB
+  type: Specification
+  status: v0.1
+  category: systems
+  description: A structured specification for provenance-aware data storage, trust
+    metadata, source trails, and agent-readable query layers.
+  url: '#'
+  cta: View spec
+- title: ResourceRank
+  type: Model
+  status: Draft
+  category: software
+  description: A scoring framework for evaluating whether a resource belongs in a
+    curated index, awesome list, or structured review workflow.
+  url: '#'
+  cta: Open project
+- title: Discovery Fragmentation
+  type: Working paper
+  status: Research
+  category: research
+  description: A conceptual research program on how search, social platforms, AI systems,
+    and private feeds reshape discovery across the web.
+  url: '#'
+  cta: Read paper
+- title: Open Dataset Patterns
+  type: Dataset guide
+  status: Active
+  category: data
+  description: Reusable structures for publishing datasets with metadata, citation
+    files, README documentation, and transparent update notes.
+  url: '#'
+  cta: View guide
+- title: Accessibility Kit
+  type: Tooling
+  status: Prototype
+  category: software
+  description: ARIA patterns, lightweight linters, and practical checks for small
+    web projects that need better accessibility coverage.
+  url: '#'
+  cta: Open toolkit
+- title: AI Workflow Notes
+  type: Field notes
+  status: Ongoing
+  category: research
+  description: Research notes on repeatable AI-assisted workflows, knowledge preservation,
+    daily prioritization, and human-AI collaboration.
+  url: '#'
+  cta: Browse notes
